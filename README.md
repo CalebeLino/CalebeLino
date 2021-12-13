@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalebeLino
-- 👀 I’m interested in Artificial Intelligence, Augmented Reality, Virtual Reality, Data Science and Mobile
+- 👀 I’m interested in Artificial Intelligence, Augmented Reality, Virtual Reality, Comput. Vision, Data Science and Mobile
 - 🌱 I’m currently learning AI and Mobile Dev
 - 💞️ I’m looking to collaborate on my AR/VR Game project and AI Task Planner project 
 - 📫 How to reach me: e-mail: calebe.nlino@gmail.com, insta (direct): @calebe_lino
