@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CalebeLino
 - 👀 I’m interested in Artificial Intelligence, Augmented Reality, Virtual Reality, Comput. Vision, Data Science and Mobile
-- 🌱 I’m currently learning AI and Mobile Dev
-- 💞️ I’m looking to collaborate on my AR/VR Game project and AI Task Planner project 
+- 🌱 I’m currently learning AI, Web Programming and Game Dev
+- 🔧 Skills in Java Web Backend, Unity C#, Python and a little bit of C++
+- 💞️ I’m looking for people to collaborate on my VR Game project
 - 📫 How to reach me: e-mail: calebe.nlino@gmail.com, insta (direct): @calebe_lino
 
 <!---
